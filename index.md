@@ -20,7 +20,7 @@ The objective of this workshop is to make the students especially B.Tech student
 
 [Academics at CEN](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-[Check out the earlier workshops conducted by CEN](http://nlp.amrita.edu/workshop/workshops.html)
+[Check out the earlier workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/)
 
 Why we conduct workshop frequently?
 [Advancement in technologies make many conventional engineering syllabus obselete](https://github.com/BarathiGanesh-HB/cen-deepchem2017/blob/master/RIP.pdf)
