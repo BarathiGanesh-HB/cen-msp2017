@@ -31,7 +31,7 @@ Why we conduct workshop frequently?
 
 **9.00 AM to 5 PM (please find below the detailed schedule)**
 
-**Linear algebra fundamentals and computational experiments with Matlab and Python** - [Dr. K. P. Soman](http://nlp.amrita.edu:8080/somankp/index.html)
+**Linear algebra fundamentals and computational experiments with Matlab and Python** - [Dr. K. P. Soman](http://nlp.amrita.edu/somankp/index.html)
 
 Linear algebra, optimization (multivariate calculus + algorithms) and probabilistic graphical models have now become most essential subjects needed to tackle the problems in the era of automation and data science.
 The common complaints to students regarding Linear algebra are
